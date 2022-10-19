@@ -1,0 +1,2 @@
+import max
+max.main()
